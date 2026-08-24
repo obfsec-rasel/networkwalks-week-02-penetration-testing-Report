@@ -37,12 +37,12 @@ All activities were performed only against systems and networks for which permis
 
 | Field | Details |
 |---|---|
-| Author | Emmanuel John |
+| Author | Sheikh Rasel Mehedi |
 | Program | Networkwalks Cybersecurity and Ethical Hacking |
 | Batch | B082 |
 | Week | 02 |
 | Report | W2-PM-FINAL |
-| Date | 17 August 2026 |
+| Date | 24 August 2026 |
 | Organization | Networkwalks |
 | Assessment scope | Authorized domain and personal local network |
 
